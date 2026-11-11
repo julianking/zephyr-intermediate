@@ -6,6 +6,3 @@ build
 deps
 project_layout.txt
 .cache
-
-# VSCode settings
-.vscode
